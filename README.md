@@ -9,3 +9,9 @@ Pembagian Tugas :
 - Assyfa Naziwa Ganandy        : membuat create.php, update.php, delete.php, read.php, dan menyambungkan ke hosting
 - Azzahra Nabila Wibirasya     : membuat logout.php, index.html, style_login.css, home.php, dan menyambungkan ke hosting
 - Saddam Surya Mardiansyah     : membuat authenticate.php, functions.php, style.css, dan membuat database
+
+# Link Web : http://mahasiswailkomp.infinityfreeapp.com/
+
+Login
+Username : saddam
+Password : Ompong19
